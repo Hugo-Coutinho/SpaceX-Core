@@ -1,5 +1,5 @@
 import XCTest
-@testable import SpaceX_Core
+@testable import HGCore
 
 class DateHelperTests: XCTestCase {
 
